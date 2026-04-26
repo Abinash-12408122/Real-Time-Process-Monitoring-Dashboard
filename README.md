@@ -117,8 +117,14 @@ npm install
 npm run dev
 ```
 
-👉 Open: http://localhost:5173
+👉 ## 🚀 How to Run Locally
 
+1. Clone the repository
+2. Run: npm install
+3. Run: npm run dev
+4. Open in browser: http://localhost:5173
+
+[To run locally: Start the development server using `npm run dev` and open http://localhost:5173 in your browser.]
 ---
 
 ## 🚀 Deployment
